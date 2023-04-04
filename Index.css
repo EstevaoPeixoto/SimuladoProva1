@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body h1{
+    margin-left: 15 px;
+}
+
 section#wname{
     height: 3vh;
     border-width: 1px;
